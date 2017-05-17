@@ -1,0 +1,9 @@
+.background {
+    position: absolute;
+    width: 1280px;
+    max-height: 720px;
+    top: 20px;
+    left: 20px;
+    right: initial;
+    opacity: 0.99;
+}
