@@ -4,6 +4,7 @@ A HTML5 Canvas based EPG(TV Guide) - React Component for TV with key based navig
 
 ####
 DEMO : https://satadrubhattacharjee.github.io/react-tv-epg/
+NOTE : Use Arrow Keys to navigate in the Grid
 
 ## How to Run
 - npm install
