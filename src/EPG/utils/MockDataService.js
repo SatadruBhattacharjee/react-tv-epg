@@ -27,10 +27,10 @@ export default class MockDataService {
 
     static availableChannelLogos = [
         "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/CNN_88.png",
-        "http://kmdev.se/epg/2.png",
-        "http://kmdev.se/epg/3.png",
-        "http://kmdev.se/epg/4.png",
-        "http://kmdev.se/epg/5.png"
+        "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MB1_88.png",
+        "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/NGO_88.png",
+        "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/FXH_60.png",
+        "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/TRM_88.png"
     ];
 
     static getMockData() {
