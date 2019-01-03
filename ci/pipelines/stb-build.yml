@@ -14,4 +14,4 @@ jobs:
   - get: resource-react-tv-epg-codebase
     trigger: true
   - task: task-react-tv-epg-app
-    file: resource-react-tv-epg-codebase/ci/tasks/task-stb-angular-build.yml
+    file: resource-react-tv-epg-codebase/ci/tasks/task-hello-world.yml
