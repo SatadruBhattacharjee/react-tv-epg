@@ -3,7 +3,7 @@
  */
 import EPGChannel from '../models/EPGChannel';
 import EPGEvent from '../models/EPGEvent';
-import EPG from '../components/TVGuideSTB';
+import EPG from '../components/TVGuide';
 
 export default class MockDataService {
     //static Random rand = new Random();
